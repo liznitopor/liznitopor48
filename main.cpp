@@ -14,6 +14,7 @@ int main()
     d.show();
     return 0;
 	//birukov alex
+	//birukov aleksandr
 }
 
 
