@@ -13,6 +13,7 @@ int main()
     c.show();
     d.show();
     return 0;
+	//birukov alex
 }
 
 
